@@ -90,20 +90,18 @@
 
 
 
-#### 3.1.1. 헤더
+#### 3.1.1. 헤더 및 메인비주얼
 
 <img width="1891" height="951" alt="image" src="https://github.com/user-attachments/assets/9396e793-bad8-4d60-83d3-99b8b12fb551" />
 
+* 신메뉴와 베스트셀러 메뉴를 모아놓은 카드 섹션입니다.
+* 우측 버튼을 누르면 해당에 맞는 메뉴가 나오게됩니다.
 
-* 첫페이지에 들어오면 시크릿혜택 모달이 뜨고 오늘 그만 보기 버튼과 닫기 버튼을 두어 편의성있게  제작하였습니다.
 
   
+#### 3.1.2. 신메뉴 & 베스트 메뉴
 
-#### 3.1.2. 헤더 및 회원가입 페이지 
-
-<img width="1891" height="951" alt="image" src="https://github.com/user-attachments/assets/cfd63079-3bc0-4922-aca3-23175a564cb9" />
-
-
+<img width="1872" height="950" alt="image" src="https://github.com/user-attachments/assets/f708f02e-394d-4c36-8c84-4f081686e221" />
 
 * 제일 상단에는 검색박스와 로그인 및 회원가입 버튼을 두었고 로그인 버튼을 누르면 로그인 모달이 뜨게 됩니다.
 * 로그인 모달에서 로그인 버튼을 누르면 메인페이지 우측 상단이 로그인 했을 시 화면으로 바뀌면서 장바구니, 알람, 개인 이미지가 나오게 됩니다. 
@@ -111,97 +109,72 @@
 
 
 
-#### 3.1.3. 메인 네비게이션
+#### 3.1.3. 이벤트
 
-<img width="1895" height="336" alt="image" src="https://github.com/user-attachments/assets/87408450-f73d-4a36-9788-ec0804ad78ff" />
+<img width="1876" height="771" alt="image" src="https://github.com/user-attachments/assets/2fa146c4-29cb-427b-b426-c63df34bb88d" />
 
-* 헤더 아레는 전체카테고리를 볼 수 있는 네비를 제작하였습니다
-* 전체카테고리 클릭하면 전체 네비가 보여지게 되며 메뉴 호버 시 언더라인 효과를 적용하였습니다.
+* 이벤트 섹션입니다. 그리드를 활용하여 제작하였고 해당 카드를 호버 시 필터에 차이를 두어 밝아지는 효과를 넣었습니다.
 
   
 
-#### 3.1.4. 메인 비주얼
+#### 3.1.4. 맴버십
 
-<img width="1900" height="708" alt="image" src="https://github.com/user-attachments/assets/1ce8e5dd-4d3e-4029-b519-0b247b5b2d9e" />
+<img width="1734" height="450" alt="image" src="https://github.com/user-attachments/assets/2aa94088-0edb-48f2-aa9b-174a66e4fde0" />
 
-* 메인 배경으로는 스와이퍼로 제작하여 넘겨가며 내용을 확인 할 수 있고 아래는 바로 넘어갈 수 있는 서브 네비가 있습니다.
-
-
-
-#### 3.1.5. 배너 및 로그인 팝업
-
-![image](https://github.com/user-attachments/assets/dd9a00ad-cebc-4f96-94f5-268bc70d7628)
-
-* 메인비주얼 바로 및 배너를 배치하여 섹션 구분을 하였습니다.
-* 좌측에는 스와이퍼를 활용하여 알림 부분을 제작하였고, 우측에는 로그인 버튼이 있는 박스를 제작하였습니다.
-* 로그인 박스에는 로그인 시 사용할 수 있는 서비스를 a를 활용해 구성하였고 로그인 페이지와 이어질 수 있도록 버튼을 제작하였습니다.
-* 로그인 박스 위에는 상담에 대한 정보를 두고 아래에는 누적건수를 활용하여 구성하였습니다.
-* 뒤에 배경으로는 천천히 돌아가는 애니메이션을 적용하여 홈페이지가 심심하지 않도록 만들었습니다.
-
-
-#### 3.1.6. 주간 베스트
-
-<img width="1807" height="746" alt="image" src="https://github.com/user-attachments/assets/281b9ffe-bca0-4fe5-963a-28557f6ac35e" />
-
-* 제목 우측에 전체 클래스 보기 버튼을 호버 시 컬러와 배경컬러가 바뀌는 효과를 주었고 베스트 클래스 카드를 스와이퍼로 제작하여 일정 시간이 지나면 자동으로 넘어갈 수 있도록 제작하였습니다.
-* 또한, 위 아래 시간차를 두어 다르게 움직이도록 만들었습니다.
-* '직장인들은 지금 여기서 만나요!' 섹션 또한 우측 버튼에 호버이벤트가 있으며 플렉스를 사용하여 구성하였습니다.
+* 맴버십 섹션입니다. 카드로 제작하여 그림자 효과를 주었고 호버 시 위로 올라가는 애니메이션으로 제작하였습니다.
 
 
 
-#### 3.1.7. 타이머
+#### 3.1.5. 메뉴 스와이퍼
 
-<img width="1850" height="414" alt="image" src="https://github.com/user-attachments/assets/fb3d8c20-1739-4f2d-bf8b-7422b14cff21" />
+<img width="1897" height="809" alt="image" src="https://github.com/user-attachments/assets/0bcc0cf5-55de-44f7-90e9-73e2d4ede9b0" />
 
-* 실시간 타이머 기능입니다. Countdown 함수를 사용하여 시간이 줄어드는 형태로 제작하였습니다.
-
-
-
-#### 3.1.8. 매거진
-
-<img width="1872" height="941" alt="image" src="https://github.com/user-attachments/assets/c34d17db-e26c-461c-a86c-5e82249f35e7" />
+* 공차 슬라이드 섹션입니다. 스와이퍼를 활용하여 제작하였고 자동으로 넘어가지만 마우스를 밀어 이동 할 수 있게 구성하였습니다.
+* 측에는 고정된 박스를 두어 스와이퍼 위에 올라온 느낌으로 제작하였습니다. 
 
 
-* 매거진과 경험 페이지입니다. 타이틀 부분은 위와 동일하여 다양한 구성의 카드 형태를 활용하여 제작하였습니다.
+
+#### 3.1.6. 브랜드페이지(서브)
+
+<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/47a600be-176d-4905-8f2d-fd320d9d3ede" />
+
+* 서브페이지인 브랜드 페이지입니다. 메인 비주얼 하단에는 다른 서브페이지로 이동할 수 있는 서브 네비를 두었습니다. 
+* 공차에 대한 설명이 적힌 섹션입니다. 타이틀 위 바를 두어 디자인적으로 비어보이지 않게 제작하였습니다.
 
 
-#### 3.1.9. 푸터
 
-<img width="1884" height="305" alt="image" src="https://github.com/user-attachments/assets/dccf5f59-77fd-4df5-b82d-cded2e88e3d9" />
+#### 3.1.7. 브랜드페이지(서브)
 
-* 푸터 부분입니다. 좌측에는 타이틀과 이름을 넣었고 중앙에는 네비를 넣어 아래에서도 다른 페이지로 접근 가능하도록 만들었습니다.
+<img width="1876" height="811" alt="image" src="https://github.com/user-attachments/assets/4d371641-6e6a-47e6-970f-0d9f309012ce" />
+
+* 하단 섹션에는 공차의 커스터마이징하여 음료를 제작하는 방법에 대한 애용입니다.
+* 3개의 스텝 박스를 플렉스러 제작하였고 2번 스텝 박스는 부트스트랩 카드를 활용하여 제작하였습니다.
+
+
+
+#### 3.1.8. 신메뉴 페이지(서브)
+
+<img width="1950" height="3499" alt="image" src="https://github.com/user-attachments/assets/41a2415d-4da5-48a2-894f-8495e4786f29" />
+
+* 공차 신메뉴 포스터에 대한 페이지입니다. 현재 제일 최근 포스터를 위에 배치하였으며 지난 포스터를 하단에 스와이퍼로 배치하여 보일 수 있게 구성하였습니다.
+
+
+
+#### 3.1.9. 전체메뉴 페이지(서브)
+
+<img width="1920" height="2610" alt="image" src="https://github.com/user-attachments/assets/ebf49a0c-be4c-455e-bce3-7d1b367b35fe" />
+
+
+* 공차의 메뉴를 카드를 사용하여 한줄에 4개씩 배치하였습니다. 처음 보이는 화면에 12의 카드를 배치하였고 더보기 버튼을 누르면 총 24개의 음료가 보이도록 제작히였습니다.
+* 음료 카드를 호버 시 배경색과 컬러가 변하도록 제작하였습니다.
 
    
 
-#### 3.1.10. 아웃도어 페이지
+#### 3.1.10. 로그인 페이지
 
-<img width="1920" height="1344" alt="image" src="https://github.com/user-attachments/assets/56157de7-fccc-4383-9599-342e96f3314a" />
+<img width="1896" height="957" alt="image" src="https://github.com/user-attachments/assets/ee4cd3e0-5240-4340-a639-c5dfd580ae05" />
 
-* 메인배경 아래의 네비를 클릭하면 보여지는 페이지입니다.
-* 상단에는 페이지의 이름과 서브 네비를 구성하였습니다.
-* 아래는 셀렉트 옵션으로 구분할 수 있게 제작하였고 내용은 카드형태로 제작하였습니다.
-
-
-
-#### 3.1.11. 다이빙 페이지
-
-<img width="1920" height="3090" alt="image" src="https://github.com/user-attachments/assets/89c6d155-a11a-4fb2-9b2f-6e3b19d9956b" />
-
-
-* 아웃도어 페이지에서 카드를 클릭하면 나오는 페이지입니다. 
-* 좌측에는 강의 내용 우측에는 서브 자세한 내용을 배치하였습니다.
-* 좌측 상단에있는 네비는 픽시드를 적용하여 스크롤해도 보이도록 제작하였고 내용을 li를 활용하여 정리하였습니다.
-* 커리큘럼 부분에는 모두접기 버튼을 누르면 내용이 접히도록 제작하였고 모두펼치기 버튼을 누르면 모두 펼쳐지도록 제작하였습니다.
-* 자주 묻는 질문에서는 아코디언을 활용하여 클릭하면 열리도록 제작하였습니다.
-
-
-
-#### 3.1.12. 장바구니 페이지
-
-<img width="1920" height="1204" alt="image" src="https://github.com/user-attachments/assets/4c293f99-199f-4f63-b6b3-f5c919735f33" />
-
-* 다이빙페이지에서 좌측 박스 장바구니 버튼을 누르면 나오는 페이지입니다.
-* 좌측에는 클래스를 선택할 수 있도록 체크박스를 제작하였고 우측에는 결제에 대한 내용으로 구성하였습니다.
+* 로그인은 모달로 뜰 수 있도록 제작하였습니다. 로그인 인풋박스와 버튼을 활용하여 제작하였고 리액트 아이콘을 넣어 제작하였습니다.
 
 
 
@@ -220,6 +193,8 @@
 * **HTML**
 * **SCSS**
 * **JavaScript**
+* **React**
+* **Bootstrap**
 
 ### 4.3. 작업 해상도
 
@@ -236,5 +211,5 @@
 
 ## 5. 관련 링크
 
-* [프로젝트 GitHub Repository](https://github.com/hyohee22/frip.git)
-* [배포된 웹사이트 링크]([https://your-deployed-site-link](https://hyohee22.github.io/frip/index.html)
+* [프로젝트 GitHub Repository](https://github.com/hyohee22/gongcha.git)
+* [배포된 웹사이트 링크](https://gongchaa.netlify.app/)
