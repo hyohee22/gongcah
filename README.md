@@ -1,4 +1,4 @@
-# 🏡 Website Redesign Project: 공차
+# 🧋 Website Redesign Project: 공차
 
 안녕하세요! 공차 웹사이트 리디자인 프로젝트에 대한 README입니다.
 
