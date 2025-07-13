@@ -65,13 +65,27 @@
 
 ## 2. 파일 구성
 ```
-🌱 housing management
- ┣ 📂 images     
- ┣ 📂 css    
- ┗ 📂 js    
-   📄 index.html    
-   📄 login_index.html   
-   📄 sub_index.html
+🌱 gongcha
+ ┣ 📂 public
+ ┣ 📂 public      
+ ┗ 📂 src   
+   📄 app.css    
+   📄 app.js
+   📄 index.csss
+   📄 index.js
+   ┗ 📂 components  
+     📄 Footer.js    
+     📄 Header.js
+     📄 LoginModal.js
+   ┗ 📂 pages  
+     📄 Bend.js    
+     📄 Home.js
+     📄 Menu.js
+     📄 New.js
+   ┗ 📂 style  
+     📄 _main.scss    
+     📄 _media.scss
+     📄 _variables.scss
 ```
 
    </br>
