@@ -1,4 +1,4 @@
-// components/LoginModal.js
+
 import React from 'react';
 import { Modal, Button, Form } from 'react-bootstrap';
 import { RiKakaoTalkFill } from "react-icons/ri";

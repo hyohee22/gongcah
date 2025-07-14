@@ -7,9 +7,9 @@ import LoginModal from './LoginModal';
 const Header = () => {
   const location = useLocation();
   const [logoSrc, setLogoSrc] = useState('/images/gongcha_logo_big.png');
-  const [showModal, setShowModal] = useState(false); // ⭐ 모달 상태
-  const handleModalOpen = () => setShowModal(true);  // ⭐ 모달 열기
-  const handleModalClose = () => setShowModal(false); // ⭐ 모달 닫기
+  const [showModal, setShowModal] = useState(false); 
+  const handleModalOpen = () => setShowModal(true);  
+  const handleModalClose = () => setShowModal(false); 
 
   useEffect(() => {
     const isSubPage = location.pathname !== '/';
@@ -24,7 +24,6 @@ const Header = () => {
     <div>
       <Navbar expand="lg" className={`custom-navbar ${location.pathname !== '/' ? 'dark-header' : 'light-header'}`}>
         <Container>
-          {/* ✅ 모바일 전용 헤더 박스 */}
           <div className="mobile-header-box">
             <Navbar.Brand as={Link} to="/" className="logo">
               <img src={logoSrc} alt="공차 로고" />
@@ -34,8 +33,7 @@ const Header = () => {
               <span className="navbar-toggler-icon"></span>
             </Navbar.Toggle>
           </div>
-
-          {/* ✅ PC 전용 네비게이션 */}
+          
           <Navbar.Collapse id="basic-navbar-nav" className="custom-collapse">
             <div className="nav-left">
               <Nav>

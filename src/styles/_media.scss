@@ -1,11 +1,11 @@
 @media (max-width: 991px) {
   .custom-navbar {
     .custom-navbar.light-header .logo img {
-      filter: brightness(100%); // 밝은 로고 잘 보이게
+      filter: brightness(100%); 
     }
 
     .custom-navbar.dark-header .logo img {
-      filter: brightness(0%) invert(1); // 필요 시 반전 효과
+      filter: brightness(0%) invert(1); 
     }
 
     .mobile-header-box {

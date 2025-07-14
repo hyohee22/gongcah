@@ -73,7 +73,7 @@
     }
   }
 
-  // ⭐ 밝은 테마
+  // 메인페이지
   &.light-header {
     .nav-link {
       color: white !important;
@@ -84,7 +84,7 @@
     }
   }
 
-  // ⭐ 어두운 테마 (서브 페이지)
+  // 서브페이지
   &.dark-header {
     background-color: #fff;
 
@@ -408,13 +408,13 @@
           color: #6C0013;
           text-align: center;
           margin-bottom: 0;
-          transition: color 0.3s ease; // hover 부드럽게
+          transition: color 0.3s ease;
         }
       
         .card-text {
           padding: 10px;
           text-align: center;
-          white-space: pre-line; // 줄바꿈 유지
+          white-space: pre-line;
           transition: opacity 0.3s ease;
         }
       }
