@@ -33,8 +33,8 @@ const allMenuItems = [
 
 
 const MenuList = () => {
-  const [visibleCount, setVisibleCount] = useState(12); // 처음엔 12개만 보여줌
-  const handleLoadMore = () => setVisibleCount(24); // 버튼 누르면 24개로 확장
+  const [visibleCount, setVisibleCount] = useState(12);
+  const handleLoadMore = () => setVisibleCount(24); 
   const visibleItems = allMenuItems.slice(0, visibleCount);
 
   return (
