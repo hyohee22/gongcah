@@ -18,9 +18,9 @@ const Bend = () => {
         <ul>
           <li><Link to="/bend">공차 이야기</Link></li>
           <li>|</li>
-          <li><Link to="/">신메뉴</Link></li>
+          <li><Link to="/new">신메뉴</Link></li>
           <li>|</li>
-          <li><Link to="/">전체메뉴</Link></li>
+          <li><Link to="/menu">전체메뉴</Link></li>
         </ul>
       </nav>
 

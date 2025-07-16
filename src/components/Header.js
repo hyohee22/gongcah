@@ -51,7 +51,6 @@ const Header = () => {
             <div className="nav-right">
               <Nav>
                 <button className="login-btn" onClick={handleModalOpen}>Login</button>
-                <Nav.Link as={Link} to="/cart">Cart</Nav.Link>
               </Nav>
             </div>
           </Navbar.Collapse>
