@@ -198,7 +198,8 @@
           margin-bottom: 30px;
 
           .membership-card {
-            width: 100%;
+            width: 100%; 
+
           }
         }
       }
@@ -211,7 +212,7 @@
       overflow: hidden;
 
       .swiper-slide {
-        width: 50% !important;
+        width: 100% !important;
         height: 400px;
         text-align: center;
 
@@ -221,16 +222,7 @@
       }
 
       .fixed-box {
-        left: 0;
-        width: 50%;
-
-        h2 {
-          font-size: 1.5rem;
-        }
-
-        img {
-          margin-left: 140px;
-        }
+        display: none;
       }
     }
   }

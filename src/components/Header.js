@@ -11,6 +11,7 @@ const Header = () => {
   const handleModalOpen = () => setShowModal(true);  
   const handleModalClose = () => setShowModal(false); 
 
+
   useEffect(() => {
     const isSubPage = location.pathname !== '/';
     const newLogo = isSubPage
@@ -24,6 +25,7 @@ const Header = () => {
     <div>
       <Navbar expand="lg" className={`custom-navbar ${location.pathname !== '/' ? 'dark-header' : 'light-header'}`}>
         <Container>
+
           <div className="mobile-header-box">
             <Navbar.Brand as={Link} to="/" className="logo">
               <img src={logoSrc} alt="공차 로고" />
@@ -33,7 +35,7 @@ const Header = () => {
               <span className="navbar-toggler-icon"></span>
             </Navbar.Toggle>
           </div>
-          
+
           <Navbar.Collapse id="basic-navbar-nav" className="custom-collapse">
             <div className="nav-left">
               <Nav>
@@ -43,7 +45,7 @@ const Header = () => {
               </Nav>
             </div>
 
-            {/* 가운데 로고 - PC 전용 */}
+
             <Navbar.Brand as={Link} to="/" className="logo pc-logo">
               <img src={logoSrc} alt="공차 로고" />
             </Navbar.Brand>
